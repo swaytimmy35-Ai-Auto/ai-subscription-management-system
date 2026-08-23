@@ -37,6 +37,8 @@ A dedicated error workflow captures failed executions and sends notifications fo
 An admin dashboard provides visibility into customer and subscription status.
 ---
 ## 🏗️ Workflow Architecture
+![System Architecture](docs/architecture.PNG)
+
 ### Customer Registration
 ```
 Customer
