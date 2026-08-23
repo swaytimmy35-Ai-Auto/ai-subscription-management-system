@@ -214,39 +214,35 @@ The result is an automated subscription-management system that reduces repetitiv
 
 Website Registration Form
 
-
+![Website Registration Form](screenshots/subscription-form.jpg)
 
 n8n Registration Workflow
 
-
+![Website Registration Form](screenshots/n8n-workflow-1.PNG)
 
 n8n Automation Workflow
 
-
+![Website Registration Form](screenshots/n8n-workflow-2.PNG)
 
 Airtable CRM
 
-
-
-Meeting Creation & Cancellation
-
-
+![Website Registration Form](screenshots/airtable-dashboard.PNG)
 
 Email Registration Notification
 
-
+![Website Registration Form](screenshots/email-notification-1.jpg)
 
 Email Reminder Notification
 
-
+![Website Registration Form](screenshots/email-notification-2.jpg)
 
 ⸻
 
 🎥 Demo
 
-A full walkthrough demonstrating customer registration, duplicate detection, subscription management, renewal automation, notifications, dashboard monitoring, and error handling will be linked here.
+A full walkthrough demonstrating customer registration, duplicate detection, subscription management, renewal automation, notifications, dashboard monitoring, and error handling.
 
-Demo: Coming soon
+Demo: [AI sub management Demo Video](https://www.loom.com/share/6270583690474d22989efef1ed550c27)
 
 ⸻
 
