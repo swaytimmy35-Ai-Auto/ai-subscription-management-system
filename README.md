@@ -212,7 +212,33 @@ The result is an automated subscription-management system that reduces repetitiv
 
 📸 Screenshots
 
-Screenshots demonstrating the registration interface, automation workflows, Airtable dashboard, payment testing flow, and email notifications will be added here.
+Website Registration Form
+
+
+
+n8n Registration Workflow
+
+
+
+n8n Automation Workflow
+
+
+
+Airtable CRM
+
+
+
+Meeting Creation & Cancellation
+
+
+
+Email Registration Notification
+
+
+
+Email Reminder Notification
+
+
 
 ⸻
 
