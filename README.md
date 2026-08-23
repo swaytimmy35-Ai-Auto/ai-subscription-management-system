@@ -38,7 +38,7 @@ An admin dashboard provides visibility into customer and subscription status.
 ---
 ## 🏗️ Workflow Architecture
 ### Customer Registration
-```text
+```
 Customer
    ↓
 Website Registration Form
@@ -62,9 +62,9 @@ Set Status       Update Record
  ↓                  ↓
 Registration      Renewal
 Confirmation      Confirmation
-
-Subscription Renewal
-
+```
+### Subscription Renewal
+```
 Existing Customer
        ↓
 Renewal Trigger
@@ -91,9 +91,9 @@ Registration   Renewal    Expiry Reminder
 Confirmation   Confirmation      ↓
                               Expiration
                                Notice
-
-Error Handling
-
+```
+### Error Handling
+```
 Any Workflow
      ↓
 Execution Failure
@@ -104,7 +104,7 @@ Capture Error Details
      ↓
 Send Troubleshooting
 Notification
-
+```
 ⸻
 
 🛠️ Technologies Used
